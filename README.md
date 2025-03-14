@@ -1,5 +1,8 @@
 # intro_screen
 
+
+<img width="891" alt="Image" src="https://github.com/user-attachments/assets/66e6fb42-e66b-4880-aa13-847139966d86" />
+
 A new Flutter project.
 
 ## Getting Started
